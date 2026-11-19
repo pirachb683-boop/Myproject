@@ -1,0 +1,4 @@
+noode_moduler/
+.env
+.env.local
+*.log
